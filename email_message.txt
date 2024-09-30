@@ -1,0 +1,26 @@
+Subject: Re: Issue with Accessing Enrolled Courses
+
+Dear Ayush Mishra,
+
+I hope this email finds you well. I understand that you're having trouble accessing your enrolled courses and receiving an error message saying "You do not have permission to view this course." After reviewing our support articles, I've found some information that may help resolve the issue.
+
+As per our Honor Code policy, Coursera promotes an environment of mutual responsibility, respect, and fairness. If you're notified of an honor code incident, you can view and appeal the incident by using the Honor Code Dashboard. 
+
+To access the Honor Code Dashboard, follow these steps:
+
+1. Log in to Coursera.org.
+2. Click the arrow in the top left corner (next to your name).
+3. Click Honor Code Dashboard.
+
+The Honor Code Dashboard will show you any past or current honor code incidents for your account. If you're experiencing issues accessing your enrolled courses, it's possible that there might be an unresolved honor code incident affecting your access.
+
+To resolve this issue, please follow the steps above to access the Honor Code Dashboard and check if there are any pending incidents. If you need further assistance or have any questions, please don't hesitate to reach out. Our support team is here to help.
+
+Additionally, I would like to inform you that our system checks for any potential issues with your account, including honor code incidents, which might be preventing you from accessing your enrolled courses. To resolve this issue, please ensure that you do not have any outstanding honor code incidents and that your account information is accurate and up-to-date.
+
+Please let me know if there's anything else I can assist you with or if you need further clarification on how to access the Honor Code Dashboard.
+
+Thank you for bringing this issue to our attention, and I hope this information helps resolve your problem.
+
+Best regards,
+Coursera Support Team
